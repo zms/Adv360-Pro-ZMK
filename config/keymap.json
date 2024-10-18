@@ -13,7 +13,7 @@
     [
        "&kp EQUAL",    "&kp N1",   "&kp N2",   "&kp N3",    "&kp N4", "&kp N5",                  "&tog 1",                                                                                   "&mo 3", "&kp N6", "&kp N7",    "&kp N8",   "&kp N9",   "&kp N0", "&kp MINUS",
          "&kp TAB",     "&kp Q",    "&kp W",    "&kp E",     "&kp R",  "&kp T",           "&kp LC(GRAVE)",                                                                                   "&none",  "&kp Y",  "&kp U",     "&kp I",    "&kp O",    "&kp P",  "&kp BSLH",
-         "&kp ESC",     "&kp A",    "&kp S",    "&kp D",     "&kp F",  "&kp G",                   "&none", "&kp LEFT_GUI", "&kp LALT",                     "&kp RCTRL", "&kp RIGHT_GUI",    "&tog 4",  "&kp H",  "&kp J",     "&kp K",    "&kp L", "&kp SEMI",   "&kp SQT",
+         "&kp ESC",     "&kp A",    "&kp S",    "&kp D",     "&kp F",  "&kp G",             "&kp LG(TAB)", "&kp LEFT_GUI", "&kp LALT",                     "&kp RCTRL", "&kp RIGHT_GUI",    "&tog 4",  "&kp H",  "&kp J",     "&kp K",    "&kp L", "&kp SEMI",   "&kp SQT",
        "&kp LSHFT",     "&kp Z",    "&kp X",    "&kp C",     "&kp V",  "&kp B",                                            "&kp HOME",                     "&kp PG_UP",                                "&kp N",  "&kp M", "&kp COMMA",  "&kp DOT", "&kp FSLH", "&kp RSHFT",
            "&mo 2", "&kp GRAVE", "&kp CAPS", "&kp LEFT", "&kp RIGHT",                          "&kp BSPC",      "&kp DEL",  "&kp END",                     "&kp PG_DN",     "&kp ENTER", "&kp SPACE",           "&kp UP",  "&kp DOWN", "&kp LBKT", "&kp RBKT",     "&mo 2"
     ], [
@@ -37,7 +37,7 @@
     ], [
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",                  "&trans",                                                             "&trans", "&trans", "&trans", "&trans", "&trans",        "&trans", "&trans",
        "&trans",  "&kp Q",  "&kp W",  "&kp F",  "&kp P",  "&kp G",           "&kp LC(GRAVE)",                                                             "&trans",  "&kp J",  "&kp L",  "&kp U",  "&kp Y", "&kp SEMICOLON", "&trans",
-       "&trans",  "&kp A",  "&kp R",  "&kp S",  "&kp T",  "&kp D",                  "&trans", "&trans", "&trans",                     "&trans", "&trans", "&tog 0",  "&kp H",  "&kp N",  "&kp E",  "&kp I",         "&kp O", "&trans",
+       "&trans",  "&kp A",  "&kp R",  "&kp S",  "&kp T",  "&kp D",             "&kp LG(TAB)", "&trans", "&trans",                     "&trans", "&trans", "&tog 0",  "&kp H",  "&kp N",  "&kp E",  "&kp I",         "&kp O", "&trans",
        "&trans",  "&kp Z",  "&kp X",  "&kp C",  "&kp V",  "&kp B",                                      "&trans",                     "&trans",                      "&kp K",  "&kp M", "&trans", "&trans",        "&trans", "&trans",
        "&trans", "&trans", "&trans", "&trans", "&trans",                            "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans",        "&trans", "&trans"
     ]
